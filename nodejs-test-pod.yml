@@ -1,0 +1,12 @@
+apiVersion: v1
+kind: Pod
+metadata:
+  name: nodehelloworld.example.com
+  labels:
+    app: helloworld
+spec:
+  containers:
+  - name: nodejs-test
+  image: username/repo:version
+  ports:
+  - containerPort: 3000
