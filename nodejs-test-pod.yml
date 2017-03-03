@@ -7,6 +7,6 @@ metadata:
 spec:
   containers:
   - name: nodejs-test
-  image: username/repo:version
+  image: syraxius/nodejs-test:0.0.1
   ports:
   - containerPort: 3000
