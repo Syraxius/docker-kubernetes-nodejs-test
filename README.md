@@ -1,3 +1,7 @@
+Warning: This is not working now. It will be updated when I have time.
+
+-----
+
 On the new machine, Docker needs to be installed first.
 
 sudo apt-get install docker-engine
