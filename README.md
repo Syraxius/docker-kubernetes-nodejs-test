@@ -1,7 +1,5 @@
 # Warning: This is not working now. It will be updated when I have time.
 
------
-
 ## Installing docker and making configuration changes
 
 ### On the new machine, Docker needs to be installed first.
@@ -16,8 +14,6 @@ GRUB_CMDLINE_LINUX='cgroup_enable=memory swapaccount=1'
 
 sudo update-grub
 sudo init 6
-
------
 
 ## Running Kubernetes
 
